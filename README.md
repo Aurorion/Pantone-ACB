@@ -10,7 +10,9 @@ These are extracted from the last version the colorbooks were available in. *(20
 
 ### Down below are install instructions for some products.
 **Step 1**: Click on the green "<> Code" button and download the contents of this repository as a .ZIP file.
+
 **Step 2**: Extract the contents of the .ZIP file somewhere on you PC. *(f.e. your desktop)*
+
 **Step 3**: Navigate to where your Adobe products are installed on your pc. For me that would be:
 
  - Windows: X:\Program Files\Adobe
